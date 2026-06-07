@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+`BenjiSkye15` is me, though you can call me `Benji`. I mainly made this repo as a website repo but whatever. `Cool.`
 <!--
 **BenjiSkye15/BenjiSkye15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
